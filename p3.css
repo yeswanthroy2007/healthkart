@@ -604,7 +604,6 @@
     margin-right: 70px;
 }
 #ph1{
-padding-right: 30px;
 padding-bottom: 14px;
     background-color: #FFFFFF;
     background-size: cover;
@@ -630,7 +629,6 @@ padding-bottom: 14px;
     border-radius: 5px;
     display: flex;
     justify-content: center;
-    margin-left: 70px;
     margin-top: 5px;
 }
 #ph-cart:hover{
